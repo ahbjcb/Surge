@@ -1,0 +1,45 @@
+☁️WARP-HK1 = wireguard, section-name=WARP-HK1, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK2 = wireguard, section-name=WARP-HK2, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK3 = wireguard, section-name=WARP-HK3, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK4 = wireguard, section-name=WARP-HK4, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK5 = wireguard, section-name=WARP-HK5, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK6 = wireguard, section-name=WARP-HK6, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK7 = wireguard, section-name=WARP-HK7, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK8 = wireguard, section-name=WARP-HK8, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK9 = wireguard, section-name=WARP-HK9, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK10 = wireguard, section-name=WARP-HK10, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+
+☁️WARP-HK1 Auto = wireguard, section-name=WARP-HK1, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK2 Auto = wireguard, section-name=WARP-HK2, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK3 Auto = wireguard, section-name=WARP-HK3, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK4 Auto = wireguard, section-name=WARP-HK4, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK5 Auto = wireguard, section-name=WARP-HK5, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK6 Auto = wireguard, section-name=WARP-HK6, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK7 Auto = wireguard, section-name=WARP-HK7, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK8 Auto = wireguard, section-name=WARP-HK8, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK9 Auto = wireguard, section-name=WARP-HK9, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK10 Auto = wireguard, section-name=WARP-HK10, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+
+
+
+☁️WARP-US1 = wireguard, section-name=WARP-US1, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US2 = wireguard, section-name=WARP-US2, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US3 = wireguard, section-name=WARP-US3, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US4 = wireguard, section-name=WARP-US4, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US5 = wireguard, section-name=WARP-US5, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US6 = wireguard, section-name=WARP-US6, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US7 = wireguard, section-name=WARP-US7, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US8 = wireguard, section-name=WARP-US8, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US9 = wireguard, section-name=WARP-US9, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US10 = wireguard, section-name=WARP-US10, underlying-proxy=🇭🇰 美国节点, test-url=http://cp.cloudflare.com/generate_204
+
+☁️WARP-US1 Auto = wireguard, section-name=WARP-US1, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US2 Auto = wireguard, section-name=WARP-US2, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US3 Auto = wireguard, section-name=WARP-US3, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US4 Auto = wireguard, section-name=WARP-US4, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US5 Auto = wireguard, section-name=WARP-US5, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US6 Auto = wireguard, section-name=WARP-US6, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US7 Auto = wireguard, section-name=WARP-US7, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US8 Auto = wireguard, section-name=WARP-US8, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US9 Auto = wireguard, section-name=WARP-US9, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-US10 Auto = wireguard, section-name=WARP-US10, underlying-proxy=🇭🇰 美国节点 Auto, test-url=http://cp.cloudflare.com/generate_204
