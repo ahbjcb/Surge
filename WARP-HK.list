@@ -7,4 +7,13 @@
 ☁️WARP-HK7 = wireguard, section-name=WARP-HK7, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
 ☁️WARP-HK8 = wireguard, section-name=WARP-HK8, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
 ☁️WARP-HK9 = wireguard, section-name=WARP-HK9, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
-☁️WARP-HK10 = wireguard, section-name=WARP-HK10, underlying-proxy=🇭🇰 香港节点, test-url=http://cp.cloudflare.com/generate_204
+
+☁️WARP-HK1 Auto = wireguard, section-name=WARP-HK1, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK2 Auto = wireguard, section-name=WARP-HK2, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK3 Auto = wireguard, section-name=WARP-HK3, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK4 Auto = wireguard, section-name=WARP-HK4, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK5 Auto = wireguard, section-name=WARP-HK5, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK6 Auto = wireguard, section-name=WARP-HK6, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK7 Auto = wireguard, section-name=WARP-HK7, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK8 Auto = wireguard, section-name=WARP-HK8, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
+☁️WARP-HK9 Auto = wireguard, section-name=WARP-HK9, underlying-proxy=🇭🇰 香港节点 Auto, test-url=http://cp.cloudflare.com/generate_204
