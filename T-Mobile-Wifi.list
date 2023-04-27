@@ -2,16 +2,13 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/ahbjcb/Surge
 # UPDATED: 2023-04-27 12:52:16
-
 IP-CIDR,208.54.0.0/16
 IP-CIDR,66.94.0.0/19
 IP-CIDR,206.29.177.36/32
-
 IP-CIDR,csl.prod.ondemandconnectivity.com
 IP-CIDR,hhk.prod.ondemandconnectivity.com
 IP-CIDR,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 IP-CIDR,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 IP-CIDR,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
-
 DOMAIN-SUFFIX,atl2.gdsb.net
 DOMAIN-SUFFIX,msg.t-mobile.com
