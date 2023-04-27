@@ -13,5 +13,5 @@ IP-CIDR,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 IP-CIDR,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 IP-CIDR,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 
-DOMAIN-SUFFIX,gdsb.net
+DOMAIN-SUFFIX,atl2.gdsb.net
 DOMAIN-SUFFIX,msg.t-mobile.com
